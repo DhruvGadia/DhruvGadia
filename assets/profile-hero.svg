@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="t desc">
+<title id="t">Dhruv Gadia — developer, AI and bioinformatics enthusiast</title>
+<desc id="desc">An animated dark-blue banner with a gently rotating orbital ring, twinkling stars and a stylized DNA double helix. The text introduces Dhruv Gadia and his interests in software, AI and bioinformatics.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080f27"/><stop offset=".54" stop-color="#10254c"/><stop offset="1" stop-color="#061021"/></linearGradient>
+<radialGradient id="bloom"><stop offset="0" stop-color="#1a82d4" stop-opacity=".36"/><stop offset="1" stop-color="#1a82d4" stop-opacity="0"/></radialGradient>
+<linearGradient id="dna" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#65e9f6"/><stop offset=".5" stop-color="#7ba5ff"/><stop offset="1" stop-color="#3dd6bb"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#45e4e8"/><stop offset="1" stop-color="#3f69f6"/></linearGradient>
+<clipPath id="clip"><rect width="1000" height="260" rx="20"/></clipPath>
+</defs>
+<style>
+@keyframes twinkle {0%,100%{opacity:.16;transform:scale(.75)}45%{opacity:.96;transform:scale(1.4)}}
+@keyframes spin {to{transform:rotate(360deg)}}
+@keyframes drift {0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+@keyframes breathe {0%,100%{opacity:.65}50%{opacity:1}}
+@keyframes scan {to{stroke-dashoffset:-95}}
+.star{opacity:.35;animation:twinkle 3.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.orbit{transform-origin:827px 130px;animation:spin 21s linear infinite}
+.dna-move{animation:drift 5s ease-in-out infinite}
+.glow{animation:breathe 5s ease-in-out infinite}
+.trace{stroke-dasharray:7 15;animation:scan 8s linear infinite}
+@media(prefers-reduced-motion:reduce){.star,.orbit,.dna-move,.glow,.trace{animation:none!important;opacity:1}}
+</style>
+<g clip-path="url(#clip)">
+<rect width="1000" height="260" fill="url(#bg)"/>
+<circle class="glow" cx="824" cy="129" r="240" fill="url(#bloom)"/>
+<path d="M530 0V260" stroke="#5da6ec" stroke-opacity=".055"/>
+<path d="M577 0V260" stroke="#5da6ec" stroke-opacity=".055"/>
+<path d="M624 0V260" stroke="#5da6ec" stroke-opacity=".055"/>
+<path d="M671 0V260" stroke="#5da6ec" stroke-opacity=".055"/>
+<path d="M718 0V260" stroke="#5da6ec" stroke-opacity=".055"/>
+<path d="M765 0V260" stroke="#5da6ec" stroke-opacity=".055"/>
+<path d="M812 0V260" stroke="#5da6ec" stroke-opacity=".055"/>
+<path d="M859 0V260" stroke="#5da6ec" stroke-opacity=".055"/>
+<path d="M906 0V260" stroke="#5da6ec" stroke-opacity=".055"/>
+<path d="M953 0V260" stroke="#5da6ec" stroke-opacity=".055"/>
+<path d="M1000 0V260" stroke="#5da6ec" stroke-opacity=".055"/><path d="M530 0H1000" stroke="#5da6ec" stroke-opacity=".055"/>
+<path d="M530 52H1000" stroke="#5da6ec" stroke-opacity=".055"/>
+<path d="M530 104H1000" stroke="#5da6ec" stroke-opacity=".055"/>
+<path d="M530 156H1000" stroke="#5da6ec" stroke-opacity=".055"/>
+<path d="M530 208H1000" stroke="#5da6ec" stroke-opacity=".055"/>
+<path d="M530 260H1000" stroke="#5da6ec" stroke-opacity=".055"/>
+<path d="M0 249 Q230 200 468 244 T1000 235" stroke="#2765b7" fill="none" stroke-width="1.2" opacity=".38"/>
+<path d="M25 25H975" stroke="#80aafb" opacity=".12"/>
+<circle class="star" cx="610" cy="46" r="1.5" fill="#b5efff" style="animation-delay:0.5s"/>
+<circle class="star" cx="659" cy="110" r="1.1" fill="#b5efff" style="animation-delay:1.7s"/>
+<circle class="star" cx="725" cy="52" r="1.9" fill="#b5efff" style="animation-delay:2.4s"/>
+<circle class="star" cx="879" cy="34" r="1.8" fill="#b5efff" style="animation-delay:1.1s"/>
+<circle class="star" cx="949" cy="81" r="1.3" fill="#b5efff" style="animation-delay:3.2s"/>
+<circle class="star" cx="924" cy="192" r="2.1" fill="#b5efff" style="animation-delay:0.2s"/>
+<circle class="star" cx="697" cy="211" r="1.4" fill="#b5efff" style="animation-delay:2.4s"/>
+<circle class="star" cx="560" cy="189" r="1.3" fill="#b5efff" style="animation-delay:1.2s"/>
+<circle class="star" cx="973" cy="231" r="1.4" fill="#b5efff" style="animation-delay:2.2s"/>
+<circle class="star" cx="775" cy="244" r="1.5" fill="#b5efff" style="animation-delay:0.8s"/>
+<circle class="star" cx="541" cy="45" r="1.2" fill="#b5efff" style="animation-delay:3.5s"/>
+<rect x="48" y="46" width="30" height="3" rx="1.5" fill="#6de5f6"/>
+<text x="48" y="78" font-family="Inter,Arial,sans-serif" font-size="15" letter-spacing="3" fill="#8ec8ff">HELLO, WORLD. I'M</text>
+<text x="46" y="143" font-family="Inter,Arial,sans-serif" font-weight="800" font-size="62" letter-spacing="-2" fill="#f1f7ff">DHRUV GADIA</text>
+<text x="49" y="177" font-family="Inter,Arial,sans-serif" font-weight="600" font-size="15" letter-spacing="1.2" fill="#80dcf2">ENGINEERING  /  AI &amp; ML  /  BIOINFORMATICS</text>
+<text x="49" y="215" font-family="Inter,Arial,sans-serif" font-size="13" letter-spacing="2" fill="#a6badc">CURIOUS BY NATURE  ·  BUILDING BY CHOICE</text>
+<g opacity=".55" transform="rotate(-19 827 130)">
+<ellipse cx="827" cy="130" rx="119" ry="77" fill="none" stroke="#65a5d8" stroke-width="1.2"/>
+<ellipse class="trace" cx="827" cy="130" rx="119" ry="77" fill="none" stroke="#77dff6" stroke-width="2.3" opacity=".67"/>
+</g>
+<g class="orbit"><circle cx="946" cy="130" r="5.2" fill="#6ae6f5"/><circle cx="946" cy="130" r="12" fill="none" stroke="#6ae6f5" opacity=".27"/></g>
+<g class="dna-move">
+<polyline points="827,36 833.5,40 839.4,44 844.2,48 847.5,52 848.9,56 848.4,60 846.1,64 842,68 836.5,72 830.3,76 823.7,80 817.5,84 812,88 807.9,92 805.6,96 805.1,100 806.5,104 809.8,108 814.6,112 820.5,116 827,120 833.5,124 839.4,128 844.2,132 847.5,136 848.9,140 848.4,144 846.1,148 842,152 836.5,156 830.3,160 823.7,164 817.5,168 812,172 807.9,176 805.6,180 805.1,184 806.5,188 809.8,192 814.6,196 820.5,200 827,204 833.5,208 839.4,212 844.2,216 847.5,220" stroke="url(#dna)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<polyline points="827,36 820.5,40 814.6,44 809.8,48 806.5,52 805.1,56 805.6,60 807.9,64 812,68 817.5,72 823.7,76 830.3,80 836.5,84 842,88 846.1,92 848.4,96 848.9,100 847.5,104 844.2,108 839.4,112 833.5,116 827,120 820.5,124 814.6,128 809.8,132 806.5,136 805.1,140 805.6,144 807.9,148 812,152 817.5,156 823.7,160 830.3,164 836.5,168 842,172 846.1,176 848.4,180 848.9,184 847.5,188 844.2,192 839.4,196 833.5,200 827,204 820.5,208 814.6,212 809.8,216 806.5,220" stroke="#7b8bf1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<line x1="839.4" y1="44" x2="814.6" y2="44" stroke="#c3d7fa" stroke-opacity=".28" stroke-width="2"/>
+<line x1="849" y1="57" x2="805" y2="57" stroke="#c3d7fa" stroke-opacity=".28" stroke-width="2"/>
+<line x1="839.4" y1="70" x2="814.6" y2="70" stroke="#c3d7fa" stroke-opacity=".28" stroke-width="2"/>
+<line x1="819" y1="83" x2="835" y2="83" stroke="#c3d7fa" stroke-opacity=".28" stroke-width="2"/>
+<line x1="805.6" y1="96" x2="848.4" y2="96" stroke="#c3d7fa" stroke-opacity=".28" stroke-width="2"/>
+<line x1="810.9" y1="109" x2="843.1" y2="109" stroke="#c3d7fa" stroke-opacity=".28" stroke-width="2"/>
+<line x1="830.3" y1="122" x2="823.7" y2="122" stroke="#c3d7fa" stroke-opacity=".28" stroke-width="2"/>
+<line x1="846.8" y1="135" x2="807.2" y2="135" stroke="#c3d7fa" stroke-opacity=".28" stroke-width="2"/>
+<line x1="846.1" y1="148" x2="807.9" y2="148" stroke="#c3d7fa" stroke-opacity=".28" stroke-width="2"/>
+<line x1="828.6" y1="161" x2="825.4" y2="161" stroke="#c3d7fa" stroke-opacity=".28" stroke-width="2"/>
+<line x1="809.8" y1="174" x2="844.2" y2="174" stroke="#c3d7fa" stroke-opacity=".28" stroke-width="2"/>
+<line x1="806" y1="187" x2="848" y2="187" stroke="#c3d7fa" stroke-opacity=".28" stroke-width="2"/>
+<line x1="820.5" y1="200" x2="833.5" y2="200" stroke="#c3d7fa" stroke-opacity=".28" stroke-width="2"/>
+<line x1="840.7" y1="213" x2="813.3" y2="213" stroke="#c3d7fa" stroke-opacity=".28" stroke-width="2"/>
+</g>
+<text x="825" y="251" font-family="monospace" font-size="10" letter-spacing="4" text-anchor="middle" fill="#80c5ef" opacity=".9">CODE  ×  LIFE</text>
+</g>
+</svg>
