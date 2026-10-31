@@ -4,7 +4,7 @@
 
 **Second-year Computer Engineering @ MPSTME, NMIMS · Exploring AI, bioinformatics & beyond.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3300&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&height=54&lines=Software+Development+%26+AI%2FML;Exploring+Biotech+%26+Bioinformatics;Always+learning.+Always+building." alt="Software development and AI/ML · Exploring biotech and bioinformatics · Always learning, always building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3300&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&height=54&lines=Software+Development+%26+AI%2FML;Exploring+Biotech+%26+Bioinformatics;CGI+%26+Games;Always+learning.+Always+building." alt="Software development and AI/ML · Exploring biotech and bioinformatics · CGI and games · Always learning, always building" />
 
 <br>
 
@@ -26,7 +26,7 @@ I believe in staying dedicated and making steady progress. My goal is simple: **
 ### 🚀 Currently exploring
 
 <div align="center">
-<img src="assets/curiosity-constellation.svg" alt="Animated constellation connecting AI and ML, full-stack development, graph systems, bioinformatics and space" width="100%" />
+<img src="assets/curiosity-constellation.svg" alt="Animated constellation connecting AI and ML, full-stack development, graph systems, bioinformatics, CGI and games, and space" width="100%" />
 </div>
 
 `AI / ML` · `Bioinformatics & Biotechnology` · `Full-Stack Development` · `Data Structures & Algorithms` · `Graph-Based Systems`
@@ -35,6 +35,7 @@ I believe in staying dedicated and making steady progress. My goal is simple: **
 
 - 🏋️ **Gym & sports:** I love working out, staying active, and the discipline that comes with it.
 - 🎬 **Movies & music:** Two of my favourite ways to unwind, discover stories, and find inspiration.
+- 🎮 **CGI & games:** I'm fascinated by visual effects, imaginative digital worlds, and the creativity behind games.
 - 🪐 **Space & NASA:** I'm fascinated by the universe, space exploration, and NASA missions.
 - 🧬 **Biology, biotechnology & history:** I'm curious about how living systems work, I'm beginning to explore bioinformatics, and I enjoy learning how people and ideas have shaped the world.
 - 📚 **Always curious:** I want to gain as much knowledge as possible, even in fields far beyond engineering.
