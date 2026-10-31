@@ -172,8 +172,18 @@ Tools, languages and platforms I've worked with or explored. I'm always adding t
 
 </div>
 
+### 🎮 Gaming favourites
+
+<div align="center">
+
+![PlayStation](https://img.shields.io/badge/PlayStation-121F39?style=for-the-badge&logo=playstation&logoColor=83B4FF)
+![Xbox](https://img.shields.io/badge/Xbox-121F39?style=for-the-badge&logo=xbox&logoColor=9EE4A8)
+![Riot Games](https://img.shields.io/badge/Riot_Games-121F39?style=for-the-badge&logo=riotgames&logoColor=FFACAD)
+
+</div>
+
 <details>
-<summary><b>🎮 Gaming platforms & communities I follow and use</b></summary>
+<summary><b>More gaming platforms & communities</b></summary>
 
 <br>
 
@@ -181,9 +191,6 @@ Tools, languages and platforms I've worked with or explored. I'm always adding t
 
 ![Steam](https://img.shields.io/badge/Steam-121F39?style=for-the-badge&logo=steam&logoColor=C4DAF4)
 ![Epic Games](https://img.shields.io/badge/Epic_Games-121F39?style=for-the-badge&logo=epicgames&logoColor=FFFFFF)
-![Xbox](https://img.shields.io/badge/Xbox-121F39?style=for-the-badge&logo=xbox&logoColor=9EE4A8)
-![PlayStation](https://img.shields.io/badge/PlayStation-121F39?style=for-the-badge&logo=playstation&logoColor=83B4FF)
-![Riot Games](https://img.shields.io/badge/Riot_Games-121F39?style=for-the-badge&logo=riotgames&logoColor=FFACAD)
 ![Ubisoft](https://img.shields.io/badge/Ubisoft-121F39?style=for-the-badge&logo=ubisoft&logoColor=D8EAFF)
 ![EA](https://img.shields.io/badge/EA-121F39?style=for-the-badge&logo=ea&logoColor=FFFFFF)
 ![Battle.net](https://img.shields.io/badge/Battle.net-121F39?style=for-the-badge&logo=battledotnet&logoColor=89BFFD)
