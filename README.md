@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dhruv Gadia
+<img src="assets/profile-hero.svg" alt="Animated profile banner for Dhruv Gadia: computer engineering, AI and bioinformatics with orbiting stars and a DNA helix" width="100%" />
 
 **Second-year Computer Engineering @ MPSTME, NMIMS · Exploring AI, bioinformatics & beyond.**
 
@@ -24,6 +24,10 @@ Right now, I'm strengthening my foundations in **Data Structures & Algorithms**,
 I believe in staying dedicated and making steady progress. My goal is simple: **learn as much as I can, build things that matter, and keep expanding my perspective**. I'm always interested in learning from others and collaborating on interesting projects.
 
 ### 🚀 Currently exploring
+
+<div align="center">
+<img src="assets/curiosity-constellation.svg" alt="Animated constellation connecting AI and ML, full-stack development, graph systems, bioinformatics and space" width="100%" />
+</div>
 
 `AI / ML` · `Bioinformatics & Biotechnology` · `Full-Stack Development` · `Data Structures & Algorithms` · `Graph-Based Systems`
 
