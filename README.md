@@ -93,23 +93,108 @@ An interactive graph visualizer exploring pathogen networks, **Kruskal's minimum
 </tr>
 </table>
 
-### 🛠️ Technologies I've worked with
+### 🛠️ My toolkit
+
+Tools, languages and platforms I've worked with or explored. I'm always adding to the list as I learn.
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-101D35?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-101D35?style=for-the-badge&logo=css&logoColor=38BDF8)
-![JavaScript](https://img.shields.io/badge/JavaScript-101D35?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-101D35?style=for-the-badge&logo=python&logoColor=60A5FA)
-![R](https://img.shields.io/badge/R-101D35?style=for-the-badge&logo=r&logoColor=93C5FD)
-![MATLAB](https://img.shields.io/badge/MATLAB-101D35?style=for-the-badge&logo=mathworks&logoColor=F97316)
-![React](https://img.shields.io/badge/React-101D35?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-101D35?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-101D35?style=for-the-badge&logo=github&logoColor=FFFFFF)
+**💻 Languages, markup & scripting**
 
-**Also explored:** D3.js · p5.js · Matter.js · FastAPI · Neo4j · SVG · Tailwind CSS
+![C](https://img.shields.io/badge/C-102845?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-102845?style=for-the-badge&logo=cplusplus&logoColor=7CB8FF)
+![HTML5](https://img.shields.io/badge/HTML5-102845?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-102845?style=for-the-badge&logo=css&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/JavaScript-102845?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-102845?style=for-the-badge&logo=typescript&logoColor=60A5FA)
+![Python](https://img.shields.io/badge/Python-102845?style=for-the-badge&logo=python&logoColor=74B5FF)
+![R](https://img.shields.io/badge/R-102845?style=for-the-badge&logo=r&logoColor=8CB8FF)
+![PHP](https://img.shields.io/badge/PHP-102845?style=for-the-badge&logo=php&logoColor=BDB5FF)
+![Objective-C](https://img.shields.io/badge/Objective--C-102845?style=for-the-badge&logo=apple&logoColor=E5E7EB)
+![Markdown](https://img.shields.io/badge/Markdown-102845?style=for-the-badge&logo=markdown&logoColor=FFFFFF)
+![LaTeX](https://img.shields.io/badge/LaTeX-102845?style=for-the-badge&logo=latex&logoColor=7AD7C9)
+![Bash](https://img.shields.io/badge/Bash-102845?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
+![PowerShell](https://img.shields.io/badge/PowerShell-102845?style=for-the-badge&logo=powershell&logoColor=84B6FA)
+
+<br>
+
+**⚙️ Development, cloud & systems**
+
+![Git](https://img.shields.io/badge/Git-10253A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-10253A?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-10253A?style=for-the-badge&logo=nodedotjs&logoColor=82D9A7)
+![React](https://img.shields.io/badge/React-10253A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Apache](https://img.shields.io/badge/Apache-10253A?style=for-the-badge&logo=apache&logoColor=F6A1B5)
+![Supabase](https://img.shields.io/badge/Supabase-10253A?style=for-the-badge&logo=supabase&logoColor=65DCA2)
+![MySQL](https://img.shields.io/badge/MySQL-10253A?style=for-the-badge&logo=mysql&logoColor=7BC8ED)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-10253A?style=for-the-badge&logo=googlecloud&logoColor=90C9FF)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-10253A?style=for-the-badge&logo=windowsterminal&logoColor=FFFFFF)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-10253A?style=for-the-badge&logo=raspberrypi&logoColor=E891AA)
+![OpenGL](https://img.shields.io/badge/OpenGL-10253A?style=for-the-badge&logo=opengl&logoColor=9DDEFF)
+![D3.js](https://img.shields.io/badge/D3.js-10253A?style=for-the-badge&logo=d3&logoColor=F7A36C)
+![FastAPI](https://img.shields.io/badge/FastAPI-10253A?style=for-the-badge&logo=fastapi&logoColor=83D9C5)
+![Neo4j](https://img.shields.io/badge/Neo4j-10253A?style=for-the-badge&logo=neo4j&logoColor=A7CEFF)
+
+<br>
+
+**📊 Data & scientific computing**
+
+![NumPy](https://img.shields.io/badge/NumPy-132642?style=for-the-badge&logo=numpy&logoColor=80C7FF)
+![Pandas](https://img.shields.io/badge/Pandas-132642?style=for-the-badge&logo=pandas&logoColor=E7C9FF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-132642?style=for-the-badge&logo=plotly&logoColor=93BDF4)
+![MATLAB](https://img.shields.io/badge/MATLAB-132642?style=for-the-badge&logo=mathworks&logoColor=F6A368)
+
+<br>
+
+**🎨 Creative tools, CGI & game development**
+
+![Figma](https://img.shields.io/badge/Figma-15243E?style=for-the-badge&logo=figma&logoColor=FBA6AA)
+![Canva](https://img.shields.io/badge/Canva-15243E?style=for-the-badge&logo=canva&logoColor=87E4F8)
+![Photoshop](https://img.shields.io/badge/Photoshop-15243E?style=for-the-badge&logo=adobephotoshop&logoColor=8BCBFF)
+![Illustrator](https://img.shields.io/badge/Illustrator-15243E?style=for-the-badge&logo=adobeillustrator&logoColor=FFBE87)
+![After Effects](https://img.shields.io/badge/After_Effects-15243E?style=for-the-badge&logo=adobeaftereffects&logoColor=D4C4FF)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-15243E?style=for-the-badge&logo=adobepremierepro&logoColor=C8B9FA)
+![Lightroom](https://img.shields.io/badge/Lightroom-15243E?style=for-the-badge&logo=adobelightroom&logoColor=91CDFA)
+![Lightroom Classic](https://img.shields.io/badge/Lightroom_Classic-15243E?style=for-the-badge&logo=adobelightroomclassic&logoColor=8DC6F3)
+![Adobe Acrobat](https://img.shields.io/badge/Adobe_Acrobat-15243E?style=for-the-badge&logo=adobeacrobatreader&logoColor=FBA4A4)
+![Unity](https://img.shields.io/badge/Unity-15243E?style=for-the-badge&logo=unity&logoColor=FFFFFF)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-15243E?style=for-the-badge&logo=unrealengine&logoColor=E5E9F9)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-15243E?style=for-the-badge&logo=nvidia&logoColor=A1D569)
+![AMD](https://img.shields.io/badge/AMD-15243E?style=for-the-badge&logo=amd&logoColor=F2F4F8)
+
+<br>
+
+**🧰 Other tools**
+
+![Notion](https://img.shields.io/badge/Notion-142339?style=for-the-badge&logo=notion&logoColor=FFFFFF)
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-142339?style=for-the-badge&logo=tampermonkey&logoColor=C5E5FB)
+![Meta](https://img.shields.io/badge/Meta-142339?style=for-the-badge&logo=meta&logoColor=85B0F6)
 
 </div>
+
+<details>
+<summary><b>🎮 Gaming platforms & communities I follow and use</b></summary>
+
+<br>
+
+<div align="center">
+
+![Steam](https://img.shields.io/badge/Steam-121F39?style=for-the-badge&logo=steam&logoColor=C4DAF4)
+![Epic Games](https://img.shields.io/badge/Epic_Games-121F39?style=for-the-badge&logo=epicgames&logoColor=FFFFFF)
+![Xbox](https://img.shields.io/badge/Xbox-121F39?style=for-the-badge&logo=xbox&logoColor=9EE4A8)
+![PlayStation](https://img.shields.io/badge/PlayStation-121F39?style=for-the-badge&logo=playstation&logoColor=83B4FF)
+![Riot Games](https://img.shields.io/badge/Riot_Games-121F39?style=for-the-badge&logo=riotgames&logoColor=FFACAD)
+![Ubisoft](https://img.shields.io/badge/Ubisoft-121F39?style=for-the-badge&logo=ubisoft&logoColor=D8EAFF)
+![EA](https://img.shields.io/badge/EA-121F39?style=for-the-badge&logo=ea&logoColor=FFFFFF)
+![Battle.net](https://img.shields.io/badge/Battle.net-121F39?style=for-the-badge&logo=battledotnet&logoColor=89BFFD)
+![itch.io](https://img.shields.io/badge/itch.io-121F39?style=for-the-badge&logo=itchdotio&logoColor=F79FA7)
+![Square Enix](https://img.shields.io/badge/Square_Enix-121F39?style=for-the-badge&logo=squareenix&logoColor=E8ECFA)
+
+</div>
+
+</details>
+
+**Also explored:** p5.js · Matter.js · SVG · Tailwind CSS · graph algorithms · bioinformatics (learning)
 
 ### 🔎 More things I've explored
 
