@@ -2,9 +2,9 @@
 
 # Dhruv Gadia
 
-**Building interactive experiences at the intersection of design, code, and data.**
+**Second-year Computer Engineering @ MPSTME, NMIMS · Curious about code, AI & the universe.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3300&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&height=54&lines=Creative+web+development;Making+graphs+and+data+explorable;Turning+ideas+into+working+prototypes" alt="Creative web development · Making graphs and data explorable · Turning ideas into working prototypes" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3300&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&height=54&lines=Software+Development+%26+AI%2FML;Full-Stack+%26+Graph-Based+Systems;Always+learning.+Always+building." alt="Software development and AI/ML · Full-stack and graph-based systems · Always learning, always building" />
 
 <br>
 
@@ -15,13 +15,25 @@
 
 ---
 
-### 👋 A little about me
+### 👋 Hey, I'm Dhruv
 
-I enjoy turning complicated ideas into **clean, interactive projects**. My repositories bring together frontend development, data analysis, graph algorithms, AI experiments, and creative coding.
+I'm a **second-year Computer Engineering student at MPSTME (NMIMS)** with a growing interest in **software development, AI/ML, and building projects that solve real-world problems**. I enjoy exploring new technologies, experimenting with different ideas, and learning by building.
 
-- 🎨 **Design + development:** thoughtful layouts, interaction, and usable interfaces
-- 🕸️ **Graphs + algorithms:** visualizing connections and making concepts easier to understand
-- 📊 **Data + research:** exploring patterns, testing hypotheses, and presenting results
+Right now, I'm strengthening my foundations in **Data Structures & Algorithms**, improving my **full-stack development** skills, and exploring **graph-based systems** and the intersection of AI and software engineering.
+
+I believe in staying dedicated and making steady progress. My goal is simple: **learn as much as I can, build things that matter, and keep expanding my perspective**. I'm always interested in learning from others and collaborating on interesting projects.
+
+### 🚀 Currently exploring
+
+`AI / ML` · `Full-Stack Development` · `Data Structures & Algorithms` · `Graph-Based Systems`
+
+### 🌍 Beyond the code
+
+- 🏋️ **Gym & sports:** I love working out, staying active, and the discipline that comes with it.
+- 🎬 **Movies & music:** Two of my favourite ways to unwind, discover stories, and find inspiration.
+- 🪐 **Space & NASA:** I'm fascinated by the universe, space exploration, and NASA missions.
+- 🧬 **Biology & history:** I love understanding how life works and how people and ideas have shaped the world.
+- 📚 **Always curious:** I want to gain as much knowledge as possible, even in fields far beyond engineering.
 
 ### ✨ Featured projects
 
@@ -130,6 +142,6 @@ An interactive graph visualizer exploring pathogen networks, **Kruskal's minimum
 
 [Explore all repositories](https://github.com/DhruvGadia?tab=repositories) · [See Social Conclave live](https://dhruvgadia.github.io/social-conclave-prototype/)
 
-<sub>Made with curiosity, code, and plenty of iteration.</sub>
+<sub>Always curious · Always learning · Always building</sub>
 
 </div>
