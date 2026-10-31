@@ -2,9 +2,9 @@
 
 # Dhruv Gadia
 
-**Second-year Computer Engineering @ MPSTME, NMIMS · Curious about code, AI & the universe.**
+**Second-year Computer Engineering @ MPSTME, NMIMS · Exploring AI, bioinformatics & beyond.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3300&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&height=54&lines=Software+Development+%26+AI%2FML;Full-Stack+%26+Graph-Based+Systems;Always+learning.+Always+building." alt="Software development and AI/ML · Full-stack and graph-based systems · Always learning, always building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3300&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&height=54&lines=Software+Development+%26+AI%2FML;Exploring+Biotech+%26+Bioinformatics;Always+learning.+Always+building." alt="Software development and AI/ML · Exploring biotech and bioinformatics · Always learning, always building" />
 
 <br>
 
@@ -19,20 +19,20 @@
 
 I'm a **second-year Computer Engineering student at MPSTME (NMIMS)** with a growing interest in **software development, AI/ML, and building projects that solve real-world problems**. I enjoy exploring new technologies, experimenting with different ideas, and learning by building.
 
-Right now, I'm strengthening my foundations in **Data Structures & Algorithms**, improving my **full-stack development** skills, and exploring **graph-based systems** and the intersection of AI and software engineering.
+Right now, I'm strengthening my foundations in **Data Structures & Algorithms**, improving my **full-stack development** skills, and exploring **graph-based systems**. I'm also learning more about **biotechnology and bioinformatics**—a field I'm increasingly drawn to because it brings together computing, biology, and real-world scientific questions.
 
 I believe in staying dedicated and making steady progress. My goal is simple: **learn as much as I can, build things that matter, and keep expanding my perspective**. I'm always interested in learning from others and collaborating on interesting projects.
 
 ### 🚀 Currently exploring
 
-`AI / ML` · `Full-Stack Development` · `Data Structures & Algorithms` · `Graph-Based Systems`
+`AI / ML` · `Bioinformatics & Biotechnology` · `Full-Stack Development` · `Data Structures & Algorithms` · `Graph-Based Systems`
 
 ### 🌍 Beyond the code
 
 - 🏋️ **Gym & sports:** I love working out, staying active, and the discipline that comes with it.
 - 🎬 **Movies & music:** Two of my favourite ways to unwind, discover stories, and find inspiration.
 - 🪐 **Space & NASA:** I'm fascinated by the universe, space exploration, and NASA missions.
-- 🧬 **Biology & history:** I love understanding how life works and how people and ideas have shaped the world.
+- 🧬 **Biology, biotechnology & history:** I'm curious about how living systems work, I'm beginning to explore bioinformatics, and I enjoy learning how people and ideas have shaped the world.
 - 📚 **Always curious:** I want to gain as much knowledge as possible, even in fields far beyond engineering.
 
 ### ✨ Featured projects
