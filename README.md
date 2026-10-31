@@ -194,7 +194,7 @@ Tools, languages and platforms I've worked with or explored. I'm always adding t
 
 </details>
 
-**Also explored:** p5.js · Matter.js · SVG · Tailwind CSS · graph algorithms · bioinformatics (learning)
+**Also explored:** p5.js · Matter.js · SVG · Tailwind CSS · graph algorithms · Bioinformatics (learning)
 
 ### 🔎 More things I've explored
 
