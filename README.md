@@ -219,6 +219,14 @@ Tools, languages and platforms I've worked with or explored. I'm always adding t
 
 </details>
 
+### 📬 Get in touch
+
+Have a project idea or want to collaborate? Feel free to reach out.
+
+[![Email](https://img.shields.io/badge/Email-dhruvgadia123%40gmail.com-183153?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dhruvgadia123@gmail.com)
+
+**Email:** [dhruvgadia123@gmail.com](mailto:dhruvgadia123@gmail.com)
+
 ### 📈 GitHub activity
 
 <div align="center">
