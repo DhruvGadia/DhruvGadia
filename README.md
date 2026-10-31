@@ -87,7 +87,7 @@ An interactive graph visualizer exploring pathogen networks, **Kruskal's minimum
 
 **`JavaScript` `D3.js` `SVG` `Graph Theory`**
 
-[**↗ Explore project**](https://github.com/DhruvGadia/outbreak-evidence-navigator)
+[**↗ Open Interactive Website**](https://htmlpreview.github.io/?https://github.com/DhruvGadia/outbreak-evidence-navigator/blob/main/index.html) · [Source code](https://github.com/DhruvGadia/outbreak-evidence-navigator)
 
 </td>
 </tr>
