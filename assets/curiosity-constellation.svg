@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="116" viewBox="0 0 1000 116" role="img" aria-labelledby="title desc">
 <title id="title">Curiosity is a constant — fields I'm exploring</title>
-<desc id="desc">A subtly animated constellation of nodes representing AI, software development, graph systems, bioinformatics, and space.</desc>
+<desc id="desc">A subtly animated constellation of nodes representing AI, software development, graph systems, bioinformatics, CGI and gaming, and space.</desc>
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#09162d"/><stop offset=".5" stop-color="#0f2850"/><stop offset="1" stop-color="#09162d"/></linearGradient>
 <linearGradient id="track" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5bd7f2" stop-opacity=".04"/><stop offset=".5" stop-color="#6bc6e6" stop-opacity=".7"/><stop offset="1" stop-color="#a88bfa" stop-opacity=".04"/></linearGradient>
@@ -26,11 +26,12 @@
 <circle class="star" cx="762" cy="60" r="1.7" fill="#86eaff" style="animation-delay:3.2s"/>
 <circle class="star" cx="850" cy="12" r="1.2" fill="#86eaff" style="animation-delay:3.6s"/>
 <circle class="star" cx="938" cy="36" r="1.7" fill="#86eaff" style="animation-delay:4s"/>
-<path d="M95 58H905" stroke="#3a5d92" stroke-width="2"/>
-<path class="beam" d="M95 58H905" stroke="url(#track)" stroke-width="4"/>
-<g class="node" style="animation-delay:0s"><circle cx="110" cy="58" r="14" fill="#112c4d" stroke="#68def0" stroke-width="2"/><circle cx="110" cy="58" r="5" fill="#68def0"/><text x="110" y="99" text-anchor="middle" font-size="12" font-family="Arial,sans-serif" letter-spacing="1.2" fill="#d1e2fa">AI / ML</text></g>
-<g class="node" style="animation-delay:0.7s"><circle cx="305" cy="58" r="14" fill="#112c4d" stroke="#70b6ff" stroke-width="2"/><circle cx="305" cy="58" r="5" fill="#70b6ff"/><text x="305" y="99" text-anchor="middle" font-size="12" font-family="Arial,sans-serif" letter-spacing="1.2" fill="#d1e2fa">FULL STACK</text></g>
-<g class="node" style="animation-delay:1.5s"><circle cx="500" cy="58" r="14" fill="#112c4d" stroke="#8f9eff" stroke-width="2"/><circle cx="500" cy="58" r="5" fill="#8f9eff"/><text x="500" y="99" text-anchor="middle" font-size="12" font-family="Arial,sans-serif" letter-spacing="1.2" fill="#d1e2fa">GRAPHS</text></g>
-<g class="node" style="animation-delay:2.2s"><circle cx="695" cy="58" r="14" fill="#112c4d" stroke="#5cdabb" stroke-width="2"/><circle cx="695" cy="58" r="5" fill="#5cdabb"/><text x="695" y="99" text-anchor="middle" font-size="12" font-family="Arial,sans-serif" letter-spacing="1.2" fill="#d1e2fa">BIOINFORMATICS</text></g>
-<g class="node" style="animation-delay:3s"><circle cx="890" cy="58" r="14" fill="#112c4d" stroke="#79a7ff" stroke-width="2"/><circle cx="890" cy="58" r="5" fill="#79a7ff"/><text x="890" y="99" text-anchor="middle" font-size="12" font-family="Arial,sans-serif" letter-spacing="1.2" fill="#d1e2fa">SPACE</text></g>
+<path d="M80 58H920" stroke="#3a5d92" stroke-width="2"/>
+<path class="beam" d="M80 58H920" stroke="url(#track)" stroke-width="4"/>
+<g class="node" style="animation-delay:0.00s"><circle cx="90" cy="58" r="14" fill="#112c4d" stroke="#68def0" stroke-width="2"/><circle cx="90" cy="58" r="5" fill="#68def0"/><text x="90" y="99" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" letter-spacing="1" fill="#d1e2fa">AI / ML</text></g>
+<g class="node" style="animation-delay:0.62s"><circle cx="254" cy="58" r="14" fill="#112c4d" stroke="#70b6ff" stroke-width="2"/><circle cx="254" cy="58" r="5" fill="#70b6ff"/><text x="254" y="99" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" letter-spacing="1" fill="#d1e2fa">FULL STACK</text></g>
+<g class="node" style="animation-delay:1.24s"><circle cx="418" cy="58" r="14" fill="#112c4d" stroke="#8f9eff" stroke-width="2"/><circle cx="418" cy="58" r="5" fill="#8f9eff"/><text x="418" y="99" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" letter-spacing="1" fill="#d1e2fa">GRAPHS</text></g>
+<g class="node" style="animation-delay:1.86s"><circle cx="582" cy="58" r="14" fill="#112c4d" stroke="#5cdabb" stroke-width="2"/><circle cx="582" cy="58" r="5" fill="#5cdabb"/><text x="582" y="99" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" letter-spacing="1" fill="#d1e2fa">BIOINFORMATICS</text></g>
+<g class="node" style="animation-delay:2.48s"><circle cx="746" cy="58" r="14" fill="#112c4d" stroke="#d39df8" stroke-width="2"/><circle cx="746" cy="58" r="5" fill="#d39df8"/><text x="746" y="99" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" letter-spacing="1" fill="#d1e2fa">CGI / GAMES</text></g>
+<g class="node" style="animation-delay:3.10s"><circle cx="910" cy="58" r="14" fill="#112c4d" stroke="#79a7ff" stroke-width="2"/><circle cx="910" cy="58" r="5" fill="#79a7ff"/><text x="910" y="99" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" letter-spacing="1" fill="#d1e2fa">SPACE</text></g>
 </svg>
